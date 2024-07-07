@@ -1,0 +1,11 @@
+/* Chế độ giao diện sáng */
+body.light-mode {
+    background-color: #fff;
+    color: #000;
+}
+
+/* Chế độ giao diện tối */
+body.dark-mode {
+    background-color: #222;
+    color: #fff;
+}
